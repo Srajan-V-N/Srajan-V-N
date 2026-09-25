@@ -30,7 +30,7 @@ I'm an Information Science and Engineering graduate specializing in data analyti
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `SQL` `JavaScript` |
-| **Data Analytics & Visualization** | `Power BI` `Tableau` `DAX` `Power Query` `Pandas` `NumPy` `Excel` |
+| **Languages** | `Python` `SQL` |
+| **Data Analytics & Visualization** | `Power BI` `Tableau` `DAX` `Power Query` `Pandas` `NumPy` `Excel` `Power Automate` |
 | **Databases & Cloud** | `MySQL` `PostgreSQL` `MongoDB` `Google Cloud Platform` |
-| **Full-Stack & Tools** | `React` `HTML5` `CSS3` `Git` `GitHub` `REST APIs` |
+| **Full-Stack & Tools** | `React` `HTML5` `CSS3` `JavaScript` `Git` `GitHub` `REST APIs` |
